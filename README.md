@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/OS-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Editor-Cursor-111111?style=for-the-badge" alt="Cursor" />
 </p>
 
@@ -20,7 +21,7 @@
 
 ### 🛠️ Entorno de trabajo
 
-- **Sistema operativo:** Arch Linux
+- **Sistemas operativos:** Arch Linux y Debian
 - **Editores:** Zed, Cursor, Neovim y VS Code
 - **Intereses:** desarrollo de software, lógica de programación y UI/UX
 
