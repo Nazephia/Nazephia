@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋</h1>
 
 <p align="center">
-  Estudiante de <b>Ingeniería de Sistemas</b> orientado al <b>desarrollo de software</b>.
+  Estudiante de <b>Ingeniería de Sistemas</b> perfil orientado al <b>desarrollo estudiantil</b>.
 </p>
 
 <p align="center">
@@ -15,16 +15,16 @@
 
 ### 💻 Stack & Entorno
 
-* **Lenguaje principal:** C++
-* **Entorno de trabajo:** Arch Linux (entorno diario y de desarrollo)
-* **Editores / IDEs:** Zed, Cursor
-* **Área de interés:** Desarrollo de software, lógica de programación y estructuras de datos
+* **Lenguajes:** C, C++, Kotlin.
+* **Entorno de trabajo:** Arch Linux
+* **Editores / IDEs:** Zed, Cursor, Neovim, VSCode.
+* **Área de interés:** Desarrollo de software, lógica de programación y UI/Ux.
 
 ---
 
 ### 📌 Sobre este perfil
 
-Este repositorio almacena mis prácticas de código, lógica de programación y proyectos personales a medida que avanzo en la carrera.
+Este repositorio almacena mis prácticas de código, lógica de programación y proyectos universitarios.
 
 ---
 
