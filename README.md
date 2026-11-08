@@ -13,9 +13,6 @@
   <img src="https://img.shields.io/badge/Editor-Cursor-111111?style=for-the-badge" alt="Cursor" />
 </p>
 
----
-
-### 💻 Lenguajes y tecnologías
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,md,python,kotlin,rust,javascript,html,css,bash,sql&perline=10" alt="Iconos de lenguajes y tecnologías" />
