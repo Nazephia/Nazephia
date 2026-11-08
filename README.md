@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Nazephia</h1>
+<h1 align="center">¡Hola! 👋 </h1>
 
 <p align="center">
   Estudiante de <strong>Ingeniería de Sistemas</strong>, interesado en el desarrollo de software, la lógica de programación y el diseño de interfaces.
@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Editor-Zed-084CCF?style=for-the-badge" alt="Zed" />
   <img src="https://img.shields.io/badge/Editor-Cursor-111111?style=for-the-badge" alt="Cursor" />
 </p>
 
