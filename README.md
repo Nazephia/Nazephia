@@ -28,7 +28,3 @@
 ### 📌 Sobre este perfil
 
 Este repositorio reúne prácticas de programación, ejercicios de lógica y proyectos universitarios.
-
-### 📫 Contacto
-
-[ n a z e p h i a @ g m a i l . c o m ](mailto:nazephia@gmail.com)
