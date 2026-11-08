@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋</h1>
 
-<!--
-**Nazephia/Nazephia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudiante de <b>Ingeniería de Sistemas</b> orientado al <b>desarrollo de software</b>.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-Zed-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IDE-Cursor-black?style=for-the-badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Stack & Entorno
+
+* **Lenguaje principal:** C++
+* **Entorno de trabajo:** Arch Linux (entorno diario y de desarrollo)
+* **Editores / IDEs:** Zed, Cursor
+* **Área de interés:** Desarrollo de software, lógica de programación y estructuras de datos
+
+---
+
+### 📌 Sobre este perfil
+
+Este repositorio almacena mis prácticas de código, lógica de programación y proyectos personales a medida que avanzo en la carrera.
+
+---
+
+📫 **Contacto:** `nazephia@gmail.com`
