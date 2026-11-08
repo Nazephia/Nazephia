@@ -20,7 +20,7 @@
 > Puedes quitar de esta lista los iconos que no quieras mostrar en tu perfil.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,md,python,js,ts,java,kotlin,go,rust,html,css,php,ruby,swift,bash,sql&perline=9" alt="Iconos de lenguajes y tecnologías" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,md,python,kotlin,go,rust,javascript,html,css,shell,bash,sql&perline=9" alt="Iconos de lenguajes y tecnologías" />
 </p>
 
 ### 🛠️ Entorno de trabajo
